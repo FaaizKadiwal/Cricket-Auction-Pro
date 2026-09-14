@@ -80,8 +80,8 @@ The live viewer works on the same device and browser as the admin window — it 
 
 ## 📬 Contact
 
-For queries, please reach out to:
-📧 faaiz12rahim@gmail.com
+For queries, please reach out to:  
+📧 [faaiz12rahim@gmail.com](mailto:faaiz12rahim@gmail.com)  
 🔗 [LinkedIn: faaiz-kadiwal](https://www.linkedin.com/in/faaiz-kadiwal-a872942b9/)
 
 ---
